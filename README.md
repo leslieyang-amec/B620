@@ -1,2 +1,2 @@
 # B620
-B620 frimware upgrade
+B620 firmware upgrade
